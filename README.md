@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Revolução das Apresentações: Criando Slides com IA Generativa 🌌
 
 ## 🌟 Descrição Atraente
 Neste projeto, exploro como usei criatividade e tecnologia para criar algo interessante, buscando entender como usar as novas IAs generativas.
